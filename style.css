@@ -1,0 +1,133 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Quicksand', sans-serif;
+}
+header {
+    background-color: #eb1b14;
+    color: seashell;
+    padding: 20px;
+    margin: 0px;
+    text-align: center;
+}
+.h1 {
+    font-size: 35px;
+}
+.nama_pem {
+    font-size: 20px;
+    margin: 15px;
+}
+.box {
+    position: relative;
+    margin-left: 250px;
+    margin-bottom: 12px;
+    top: -40px;
+    font-size: 20px;
+    width: 27%;
+    font-weight: 250;
+}
+.produk {
+    position: relative;
+    font-size: 20px;
+    margin: 15px;
+    top: -40px;
+}
+ul {
+    position: relative;
+    margin-left: 245px;
+    font-size: 15px;
+    top: -20px;
+}
+li {
+    position: relative;
+    display: inline-block;
+}
+.a {
+    position: relative;
+    top: -59px;
+    margin: 5px;
+}
+.jumlah {
+    position: relative;
+    font-size: 20px;
+    margin: 15px;
+    top: -65px;
+}
+.boxs {
+    position: relative;
+    top: -105px;
+    margin-bottom: 15px;
+    margin-left: 250px;
+    width: 27%;
+    font-size: 20px;
+    font-weight: 250;
+}
+.kurir {
+    position: relative;
+    font-size: 20px;
+    margin: 15px;
+    top: -90px;
+}
+.pilih {
+    position: relative;
+    top: -130px;
+    margin-bottom: 15px;
+    margin-left: 250px;
+    width: 12%;
+    font-size: 20px;
+}
+.kirim {
+    position: relative;
+    top: -120px;
+    margin-bottom: 15px;
+    margin-left: 250px;
+    width: 8%;
+    font-size: 20px;
+    color: seashell;
+    background-color: #eb1b14;
+}
+.card {
+    width: 18rem;
+}
+#harga {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 22%;
+    margin-left: 650px;
+    top: -400px;
+}
+#harga td, #harga th {
+    border: 1px solid rgb(224, 224, 224);
+    padding: 10px;
+}
+#harga tbody {
+    background-color: #fffefe;
+}
+
+#harga thead {
+    color: seashell;
+    text-align: center;
+    background-color: #eb1b14; 
+}
+#daftar_biaya {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 22%;
+    margin-left: 1000px;
+    top: -650px;
+}
+#daftar_biaya td, #daftar_biaya th {
+    border: 1px solid rgb(224, 224, 224);
+    padding: 10px;
+}
+#daftar_biaya tbody {
+    background-color: #fffefe;
+}
+
+#daftar_biaya thead {
+    color: seashell;
+    text-align: center;
+    background-color: #eb1b14; 
+}
